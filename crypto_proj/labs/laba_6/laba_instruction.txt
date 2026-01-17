@@ -1,0 +1,12 @@
+2 терминала
+1) Запускаем сервак с помощью geth --dev --datadir C:\ethereum\dev --http --http.addr 127.0.0.1 --http.port 8700 --http.api eth,net,web3,miner,txpool --miner.etherbase 0x3C2123dcae44733c43A59A8F33774B0cfe7aEDDd
+2) Запускаем всё остальное в порядке
+а) compile
+б) deploy
+в) transfer
+
+3) Далее отправка в кошелёк Metamask, в общем создаём на всякий новый аккаунт и копируем ETH public
+4) Применяем в metamask
+
+5) Потом в remix заходим и компилим уже там
+6) заливаем как в 5 лабе

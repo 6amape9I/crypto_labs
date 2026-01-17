@@ -1,0 +1,3 @@
+get_from_faucet.png : https://bitpay.com/insight/BTC/testnet/tx/55d0b3478cb6d04a7baf54d793d7c9d18c270f9919a8aec5a4d412c2a16c075b
+from_main_to_multi.png : https://bitpay.com/insight/BTC/testnet/tx/8da945b08f184f879f0d88b9af1352cdd81ddb9588cfbb3612be176d378a8743
+from_multi_to_main.png : https://bitpay.com/insight/BTC/testnet/tx/8da945b08f184f879f0d88b9af1352cdd81ddb9588cfbb3612be176d378a8743

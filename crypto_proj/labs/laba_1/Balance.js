@@ -1,11 +1,11 @@
 const https = require('https');
 
-const address = '2N2hCKKTRiyMRHyt64KALCVmKaVaUUfZK2w';
+const address = 'mp4naUYZdWMRURa9bbfDr2pMZ2P9L5gbKE';
 
 const options = {
   hostname: 'mempool.space',
   port: 443,
-  path: `/api/testnet4/address/${address}`,
+  path: `/testnet4/api/address/${address}`,
   method: 'GET'
 };
 
